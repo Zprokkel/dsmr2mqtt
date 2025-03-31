@@ -110,7 +110,7 @@ definition = {
    "str", "1", "0", "mdi:numeric"],
 
 "0-0:96.7.21":
-  ["Number gas failures", "el", "power_failures", "^.*\((.*)\)",
+  ["Number power failures", "el", "power_failures", "^.*\((.*)\)",
    "", "int", "1", "1", "mdi:transmission-tower-off"],
 
 "0-0:96.7.9":
